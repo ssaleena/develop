@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\test"
+		},
+		{
+			"path": "..\\..\\mamp"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
